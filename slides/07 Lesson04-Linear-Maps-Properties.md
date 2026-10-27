@@ -5,7 +5,7 @@ template: default
 
 Some immediate properties of linear maps are
 
-<div class="center">
+
 
 1. **Origin maps to origin**<br>
 $L(\mathbf{0})=L(0\mathbf{0})=0L(\mathbf{0})=\mathbf{0}$
@@ -15,9 +15,9 @@ $L(-\mathbf{v})=L(-1\mathbf{v})=-1L(\mathbf{v})=-L(\mathbf{v})$
 $L(s\mathbf{v})=sL(\mathbf{v})$
 4. **Subspaces are preserved**<br>
 If $U\subset V$ is a subspace $L(U) \subset W$ is a subspace.
+Let $\mathbf{u}_1,\mathbf{u}_2 \in L(U)$ and $c_1,c_2 \in \mathbb{F}$. <br>Then $\mathbf{u}_1=L(\mathbf{v}_1)$ and $\mathbf{u}_2=L(\mathbf{v}_2)$ for some $\mathbf{v}_1,\mathbf{v}_2 \in U$. Therefore, $c_1\mathbf{u}_1+c_2\mathbf{u}_2=c_1L(\mathbf{v}_1)+c_2L(\mathbf{v}_2)=L(c_1\mathbf{v}_1+c_2\mathbf{v}_2) \in L(U)$.
 5. **The kernel is a subspace of $V$**<br>
 Let $\mathbf{v}_1,\mathbf{v}_2 \in Ker(L)$ and $c_1,c_2 \in \mathbb{F}$. Then $L(c_1\mathbf{v}_1+c_2\mathbf{v}_2)=c_1L(\mathbf{v}_1)+c_2L(\mathbf{v}_2)=c_1\mathbf{0}+c_2\mathbf{0}=\mathbf{0}$.
-6. **The range is a subspace of $W$**<br>
-Let $\mathbf{w}_1,\mathbf{w}_2 \in Range(L)$ and $c_1,c_2 \in \mathbb{F}$. Then $\mathbf{w}_1=L(\mathbf{v}_1)$ and $\mathbf{w}_2=L(\mathbf{v}_2)$ for some $\mathbf{v}_1,\mathbf{v}_2 \in V$. Therefore, $c_1\mathbf{w}_1+c_2\mathbf{w}_2=c_1L(\mathbf{v}_1)+c_2L(\mathbf{v}_2)=L(c_1\mathbf{v}_1+c_2\mathbf{v}_2) \in Range(L)$.
+6. **The range is a subspace of $W$**<br> Comes directly from 4. setting $U=V$
 
-</div>
+

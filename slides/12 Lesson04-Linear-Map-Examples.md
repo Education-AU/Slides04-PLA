@@ -18,5 +18,3 @@ of continuous functions on the same interval. These can both be made into vector
 Consider the map 
 $$D:C^2[a,b] \to C[a,b]$$ 
 defined simply by differentiation. That is the $D$ maps a function to its derivative. Is this a linear map ?
-
-

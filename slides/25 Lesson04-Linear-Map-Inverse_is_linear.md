@@ -9,6 +9,11 @@ Can we prove that the inverse of a linear map is linear
 The inverse of a linear map is linear
 </div>
 
+<br><br>
+<div class="h3-blue">
+Proof
+</div>
+
 Let $L:V \to W$ and the inverse $L^{-1}:W \to V$
 
 Consider $\mathbf{w}_1,\mathbf{w}_2 \in W$

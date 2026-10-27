@@ -12,6 +12,7 @@ Injectivity $\Leftrightarrow \operatorname{ker} (L)=\{ \mathbf{0} \}$
 <div class="h3-blue">
 Proof
 </div>
+<br>
 Assumme $\operatorname{ker}(L)=\{ \mathbf{0} \}$
 
 Let $\mathbf{v}_1,\mathbf{v}_2 \in V$ and assume $\operatorname{ker} (L)=\{\mathbf{0} \}$ then

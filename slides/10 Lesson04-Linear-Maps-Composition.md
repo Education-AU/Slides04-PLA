@@ -3,8 +3,9 @@ title: Linear Map Composition
 template: default
 ---
 
-An important property is that, if you combine linear maps through several vectorspaces it is overall a linear map
 
+An important property is that, if you combine linear maps through several vectorspaces it is overall a linear map
+<br><br><br>
 <div class="h3-blue">
 Composition
 </div>
@@ -18,7 +19,7 @@ T:V\to W
 $$
 
 Then
-$$ 
+$$
 (T\circ L)(\mathbf{v})=T (L (\mathbf{v}))
 $$
 is a linear map from $U$ to $W$

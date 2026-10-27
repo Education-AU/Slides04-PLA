@@ -33,6 +33,8 @@ d&=Ac
 \end{aligned}
 $$
 This is obviously linear, and we have shown that any matrix represents a linear map, but we need to choose bases in the
-domain and codomain. The matrix itself has no knowledge of the spaces it is mapping between, it is just a collection of
+domain and codomain. 
+
+The matrix itself has no knowledge of the spaces it is mapping between, it is just a collection of
 numbers. The bases are what give the matrix meaning as a linear map.
 

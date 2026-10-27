@@ -2,6 +2,7 @@
 title: Linear Continuation
 template: default
 ---
+
 Linear maps are fixed by their values on a basis. That is, if we know the values of a linear map on a basis, we can determine the value of the map on any vector in the domain.
 
 Consider finite dimensional vectorspaces $V$ and $W$ with some basis for $V$
@@ -23,3 +24,4 @@ Let $\mathbf{v}\in V$.
 $$
 L(\mathbf{v})=  L\left(\sum_{i=1}^n c_i\mathbf{e}_i\right)=\sum_{i=1}^n c_iL(\mathbf{e}_i) = \sum_{i=1}^n c_i\mathbf{w}_i
 $$
+

@@ -3,7 +3,7 @@ title: Matrix representation of a Linear map
 template: default
 ---
 
-Consider **finite dimensional** vectorspaces $V$ dimension $n$ and $W$ dimension $m$ and consider a linear map
+Consider finite dimensional vectorspaces $V$ dimension $n$ and $W$ dimension $m$ and consider a linear map
 
 $$
 T:V \to W
@@ -22,6 +22,4 @@ Consider $\mathbf{v} \in V$ and expand in the **chosen** basis of $V$
 $$
 \mathbf{v}=\sum_{j=1}^n c_j\mathbf{e}_j
 $$
-
- 
 

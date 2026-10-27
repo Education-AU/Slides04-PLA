@@ -9,7 +9,9 @@ This property actually holds for any map, not just linear maps.
 
 Surjectivity $L\Leftrightarrow \operatorname{range}(L)=W$
 
-
+<div class="h3-blue">
+Proof
+</div>
 
 Assume $\operatorname{range}(L)=W$ then for all $\mathbf{w}\in W$ there exists a $\mathbf{v} \in V$ such that $L(\mathbf{v})=\mathbf{w}$ implying surjectivity.
 

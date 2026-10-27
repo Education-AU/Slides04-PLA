@@ -33,6 +33,8 @@ $$
 Notice the shape of the matrix is $m\times n$
 
 That is in some **specifically chosen bases** a linear map can be represented as matrix multiplication on the coordinates
-of the vector in the domain basis. The matrix columns are the coordinates of the image of the domain basis vectors in
+of the vector in the domain basis. 
+
+The matrix columns are the coordinates of the image of the domain basis vectors in
 the codomain basis.
 
